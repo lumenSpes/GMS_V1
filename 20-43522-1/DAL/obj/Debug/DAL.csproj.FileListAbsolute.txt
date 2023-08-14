@@ -1,0 +1,14 @@
+F:\sem xi\project\DAL\bin\Debug\DAL.dll.config
+F:\sem xi\project\DAL\bin\Debug\DAL.dll
+F:\sem xi\project\DAL\bin\Debug\DAL.pdb
+F:\sem xi\project\DAL\bin\Debug\EntityFramework.dll
+F:\sem xi\project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\sem xi\project\DAL\bin\Debug\EntityFramework.xml
+F:\sem xi\project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\sem xi\project\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\sem xi\project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\sem xi\project\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\sem xi\project\DAL\obj\Debug\DAL.dll
+F:\sem xi\project\DAL\obj\Debug\DAL.pdb
+F:\sem xi\project\DAL\obj\Debug\DAL.Migrations.farhan_m1.resources
+F:\sem xi\project\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
